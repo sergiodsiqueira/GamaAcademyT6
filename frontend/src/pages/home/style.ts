@@ -14,13 +14,12 @@ const StyledContainer = styled.div`
     .inputEmail, .inputSenha{
         margin-top: 30px;
         width: 50%;
-        min-width: 200px;
+        min-width: 300px;
     }
-    .buttonLogin{
+    .buttonLogin, .buttonCadastrar{
         margin-top: 30px;
         padding: 10px 50px 10px 50px;
     }
-
 `
 
 export default StyledContainer;
